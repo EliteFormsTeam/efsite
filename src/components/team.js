@@ -22,7 +22,7 @@ function Team () {
     },
     {
       image: patrick,
-      name: 'Patrick Mojico',
+      name: 'Patrick Mojica',
       gh: 'https://github.com/patrickMojica',
       linkedin: 'https://www.linkedin.com/in/patrick-mojica-1298b968/'
     },

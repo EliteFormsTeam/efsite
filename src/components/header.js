@@ -24,7 +24,7 @@ function Header () {
         </div>
         <div className="separator">|</div>
         <div className="menu-items">
-          <a className="menu-name" href="../../public/docs.html">DOCUMENTATION</a>
+          <a className="menu-name" href="./public/docs.html">DOCUMENTATION</a>
         </div>        
         <div className="separator">|</div>
         <div className="menu-items">
