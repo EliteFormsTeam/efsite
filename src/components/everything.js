@@ -12,7 +12,6 @@ function Everything () {
   return (
     <div>
       <Header/>
-      <div>hello world?</div>
       <Landing/>
       <div id="first">
         <Features/>
