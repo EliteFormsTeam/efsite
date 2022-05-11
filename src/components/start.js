@@ -7,6 +7,8 @@ import { AnimationOnScroll } from 'react-animation-on-scroll';
 
 function Start () {
 
+
+  
   return(
     <div id="start">
       <div id="title" className="start-item">FEATURE</div>
