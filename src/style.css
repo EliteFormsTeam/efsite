@@ -75,15 +75,15 @@ body{
   padding: 10px;
   border: 2px solid transparent;
   font-family: 'Nunito', sans-serif;
-  padding-left: 40px;
-  padding-right: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 #button-left{
   background-color: #324fff;
   color:#f4f4f4;
   font-weight: 100;
-}
+  }
 
 #button-right{
   background-color: #384860;
@@ -110,6 +110,7 @@ body{
 .button-link{
   text-decoration: none;
   color: #f4f4f4;
+  font-size: 20px;
 }
 
 #button-gh{
