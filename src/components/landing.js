@@ -13,8 +13,10 @@ function Landing () {
          A robust form library for Lit that enriches input components with easy-to-use data validation features
         </div>
         <div id="button-container">
-          <div className="button" id="button-left"><a className="button-link" href="https://github.com/oslabs-beta/EliteForms"> <img id="button-gh" src={github} height="40"></img> Contribute</a></div>
-          <div className="button" id="button-right"> <img id="button-npm" src={npmCarrot} height="30"></img> npm i elite-forms</div>
+          <div className="button" id="button-left">
+            <a className="button-link" href="https://github.com/oslabs-beta/EliteForms"> <img id="button-gh" src={github} height="25"></img> Contribute</a>
+          </div>
+          <div className="button" id="button-right"> <a className="button-link" href="https://www.npmjs.com/package/elite-forms"><img id="button-npm" src={npmCarrot} height="20"></img> npm i elite-forms</a></div>
         </div>
       </div>
       <div className="landing-item">
