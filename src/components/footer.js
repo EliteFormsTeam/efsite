@@ -1,7 +1,5 @@
 import React from 'react';
 import github from '../assets/github.png';
-import twitter from '../assets/twitter.png';
-import vs from '../assets/vs.png'
 import logo from '../assets/elite-forms-logo.png'
 
 function Footer () {
@@ -13,19 +11,16 @@ function Footer () {
           <div id="links-logo">
             <img src={logo} height="100px" />
           </div>
-          <div id="links-items">
-            <a href="https://github.com/"> <img src={github} height="30px"/></a>
-            <a href="https://twitter.com/"><img src={twitter} height="30px"/></a>
-            <a href="https://visualstudio.microsoft.com/"> <img src={vs} height="30px"/></a>
-          </div>
         </div>
         <div className="footer-item">
           QUICK LINKS
-          <a className="footer-list" href="https://www.freeprivacypolicy.com/live/ff558616-160c-4281-a044-d85018c4cd25">Privacy Policy</a>
+          <a className="footer-list" href="https://www.freeprivacypolicy.com/live/a55e5ffc-c48d-4ec0-b181-7aa3ee3c47a2">Privacy Policy</a>
+          <a href="https://github.com/"> <img src={github} height="30px"/></a>
         </div>
         <div className="footer-item">
           CONTACT
-          <div className="footer-list">contact@apes.io</div>
+          <div className="footer-list">424.526.6883</div>
+          <div className="footer-list">200 Spectrum Center Drive, Irvine, CA</div>
         </div>
       </div>
     </div>

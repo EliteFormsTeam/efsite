@@ -16,7 +16,7 @@ function Team () {
     },
     {
       image: stella,
-      name: 'Na Shinhae',
+      name: 'Shinhae Na',
       gh: 'https://github.com/shinhaena-stella',
       linkedin: 'https://www.linkedin.com/in/shinhaena-stella/'
     },
